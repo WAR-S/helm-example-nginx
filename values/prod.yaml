@@ -1,0 +1,5 @@
+namespace: "prod"
+replicaCount: 5
+
+image:
+  tag: "1.25-alpine"
